@@ -1088,7 +1088,6 @@ const App: React.FC = () => {
 
         <div className="container mx-auto pt-8 border-t border-white/20 flex flex-col md:flex-row justify-between items-center text-xs text-white/60 uppercase tracking-widest">
           <p>© {new Date().getFullYear()} {EXPERT_NAME}</p>
-          <p className="mt-4 md:mt-0">Designed for 2025-2026</p>
         </div>
       </footer>
 
