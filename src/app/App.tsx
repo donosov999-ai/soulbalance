@@ -1071,9 +1071,13 @@ const App: React.FC = () => {
                <Instagram size={20} className="text-[#F29272]"/>
                <span>@soulbalance_expert</span>
             </a>
-            <a href="#" className="flex items-center gap-4 hover:text-[#F29272] transition-colors text-white/80 group">
+            <a href="https://t.me/juliaonosova" target="_blank" rel="noopener noreferrer" className="flex items-center gap-4 hover:text-[#F29272] transition-colors text-white/80 group">
                <Send size={20} className="text-[#F29272]"/>
-               <span>Telegram Channel</span>
+               <span>@juliaonosova</span>
+            </a>
+            <a href="https://t.me/gurmanlife" target="_blank" rel="noopener noreferrer" className="flex items-center gap-4 hover:text-[#F29272] transition-colors text-white/80 group">
+               <Send size={20} className="text-[#F29272]"/>
+               <span>Канал «gurmanlife»</span>
             </a>
             <a href="mailto:hello@soulbalance.ru" className="flex items-center gap-4 hover:text-[#F29272] transition-colors text-white/80 group">
                <Mail size={20} className="text-[#F29272]"/>
